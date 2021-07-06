@@ -4,9 +4,9 @@ import random
 import pyperclip
 import zeus
 
-smile_emoji_path = 'C:\\Users\\mouaa\\PycharmProjects\\Bot\\images\\smiley_paperclip.png'
-green_circle_path = 'C:\\Users\\mouaa\\PycharmProjects\\Bot\\images\\green_circle.png'
-audio_btn_path = 'C:\\Users\\mouaa\\PycharmProjects\\Bot\\images\\new_audio.png'
+smile_emoji_path = 'C:\\chatbot\\images\\smiley_paperclip.png'
+green_circle_path = 'C:\\chatbot\\images\\green_circle.png'
+audio_btn_path = 'C:\\chatbot\\images\\new_audio.png'
 
 
 sleep(5)
