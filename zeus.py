@@ -13,8 +13,8 @@ from difflib import get_close_matches
 
 
 stemmer = LancasterStemmer()
-intents_filepath = 'C:\\Users\\mouaa\\PycharmProjects\\Bot\\intents.json'
-dict_path = 'C:\\Users\\mouaa\\PycharmProjects\\Bot\\close_matches.txt'
+intents_filepath = 'C:\\chatbot\\intents.json'
+dict_path = 'C:\\chatbot\\close_matches.txt'
 
 with open(intents_filepath, encoding='utf-8') as file:
     data = json.load(file)
